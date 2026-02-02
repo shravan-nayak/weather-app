@@ -47,7 +47,7 @@ A simple and user-friendly **Weather Detection Web Application** that shows real
 ![Location Weather](./screenshots/location.png)
 
 ### 🌙 Dark Mode
-![Dark Mode](./screenshots/darkmode.png)
+![Dark Mode](C:\weather_app\screenshots\darkmode.png.png)
 
 
 ## 📂 Project Structure
