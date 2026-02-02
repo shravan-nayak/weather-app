@@ -38,16 +38,14 @@ A simple and user-friendly **Weather Detection Web Application** that shows real
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](https://raw.githubusercontent.com/shravan-nayak/weather-app/main/screenshots/home.png)
 
 ### 🔍 City Weather Search
-![City Search](./screenshots/search.png)
-
-### 📍 Current Location Weather
-![Location Weather](./screenshots/location.png)
+![City Search](https://raw.githubusercontent.com/shravan-nayak/weather-app/main/screenshots/search.png)
 
 ### 🌙 Dark Mode
-![Dark Mode](./screenshots/darkmode.png)
+![Dark Mode](https://raw.githubusercontent.com/shravan-nayak/weather-app/main/screenshots/darkmode.png)
+
 
 
 ## 📂 Project Structure
